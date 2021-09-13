@@ -1,0 +1,14 @@
+main: IcyEndymion004\Base
+name: FrozenHeathItems
+version: 0.0.1
+api: 3.0.0
+author: IcyEndymion004
+description: Plugin For Sillier
+commands:
+  customfood:
+    description: Command To Create the item
+    permission: baseopperm
+permissions:
+  baseOpperm:
+    description: Permission For It
+    default: op
